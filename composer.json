@@ -1,0 +1,19 @@
+{
+  "name": "nurullah/php-tkgm-adres-sorgulama",
+  "description": "PHP ile TKGM Adres Sorgulama botu",
+ "license": "MIT",
+ "authors": [
+    {
+      "name": "Nurullah ISIK",
+       "email": "bmnurullah@gmail.com"
+    }
+  ],
+  "require": {
+      
+  },
+  "autoload": {
+    "psr-4": {
+      "TKGM\\Adres\\": "src/"
+    }
+  }
+}
